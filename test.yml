@@ -1,0 +1,19 @@
+name: Arindam
+age: 51
+address: {Street: Cinnamon}
+active: true
+key:
+  key: value
+  key2: 34
+  key3:
+    key: value
+    key2: 100
+array:
+  - item1
+  - item2
+  - {key: value}
+objectArray:
+  - key1: value1
+    key11: value11
+  - key2: value2
+    key21: value21
