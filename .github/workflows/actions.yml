@@ -6,7 +6,7 @@ jobs:
         steps:
             - name: Simple JS Action
               id: greet
-              uses: actions/hello-world-javascript-action@v1.1
+              uses: actions/hello-world-javascript-action@v1
               # Input to the Action
               with:
                 who-to-greet: Arindam the Great
